@@ -5,4 +5,6 @@ module pl.robworkjava.HRModule {
 
      requires java.logging;
 
+     exports pl.robworkjava.hr;
+
 }
